@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "200292814424",
+    "project_id": "chrischat-66e1b",
+    "storage_bucket": "chrischat-66e1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200292814424:android:630a25946b113c0b2f842d",
+        "android_client_info": {
+          "package_name": "com.example.chat_app_portfolio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200292814424-0ur99l7m3mtevrho1m7pvs0dvj7r3ivr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPiEHnF57gapQFDSrXUv_DItcO6gegyzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200292814424-0ur99l7m3mtevrho1m7pvs0dvj7r3ivr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
